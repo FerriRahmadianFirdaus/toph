@@ -6,7 +6,7 @@ welcome_message = "WELCOME TO REVOLUTION!"
 revolutionPosition = random.randint(1, 5)
 
 print('''
-           ******''')
+         ******''')
 print("        ************")
 print("     ******************")
 print("  ************************")
